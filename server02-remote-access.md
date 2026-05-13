@@ -1,12 +1,12 @@
-# Remote Acces Troubleshooting
+# Remote Access Troubleshooting
 
 ## Problem
-Conflicts occured between multiple remote desktop services. This caused untstable desktop sessions and blackscreens
+Conflicts occurred between multiple remote desktop services. This caused unstable desktop sessions and black screens.
 
 ## Resolution
-- Identified service conflicts betwen XRDP and NoMachine
+- Identified service conflicts between XRDP and NoMachine
 - Disabled XRDP as it was causing issues with NoMachine
-- Verifiered stable SSH and remote connectivity 
+- Verified stable SSH and remote connectivity 
 - Headless verified and stable with administration functionality 
 
 ## Skills practiced
