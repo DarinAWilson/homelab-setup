@@ -1,7 +1,10 @@
 # Dashboard and Monitoring Setup
 
 ## Homepage Dashboard
-Deployed Homepage using Docker and Portainer to serve as a centralized homelab dashboard.
+
+The Homepage dashboard provides centralized access to homelab infrastructure and monitoring services.
+
+![Homepage Dashboard](screenshots/Homepage-dashboard1.png)
 
 ### Features
 - Centralized service access
