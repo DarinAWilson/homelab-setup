@@ -57,7 +57,7 @@ Uptime Kuma monitors:
 ## Screenshots
 
 ### Homepage Dashboard
-![Homepage Dashboard](screenshots/Homepage-Dashboard2.png)
+![Homepage Dashboard](screenshots/Homepage-dashboard2.png)
 
 ### Grafana Monitoring
 ![Grafana Dashboard](screenshots/Grafana-Dashboard.png)
